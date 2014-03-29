@@ -11924,10 +11924,10 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <part name="Y3" library="SparkFun" deviceset="CRYSTAL" device="5X3" value="25M">
 <variant name="no-eth" populate="no"/>
 </part>
-<part name="C17" library="rcl" deviceset="C-EU" device="C0603" value="22p">
+<part name="C17" library="rcl" deviceset="C-EU" device="C0603" value="33p">
 <variant name="no-eth" populate="no"/>
 </part>
-<part name="C18" library="rcl" deviceset="C-EU" device="C0603" value="22p">
+<part name="C18" library="rcl" deviceset="C-EU" device="C0603" value="33p">
 <variant name="no-eth" populate="no"/>
 </part>
 <part name="GND17" library="supply1" deviceset="GND" device=""/>
@@ -12051,8 +12051,8 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <part name="C11" library="rcl" deviceset="C-EU" device="C0603" value=".1u"/>
 <part name="C12" library="rcl" deviceset="C-EU" device="C0603" value=".1u"/>
 <part name="GND23" library="supply1" deviceset="GND" device=""/>
-<part name="C16" library="rcl" deviceset="C-EU" device="C0603" value="18p"/>
-<part name="C31" library="rcl" deviceset="C-EU" device="C0603" value="18p"/>
+<part name="C16" library="rcl" deviceset="C-EU" device="C0603" value="33p"/>
+<part name="C31" library="rcl" deviceset="C-EU" device="C0603" value="33p"/>
 <part name="LED5" library="led" deviceset="LED" device="CHIPLED_0805"/>
 <part name="R6" library="rcl" deviceset="R-EU_" device="R0603" value="330"/>
 <part name="C37" library="rcl" deviceset="C-EU" device="C0603" value=".1u"/>
@@ -12061,8 +12061,8 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <part name="Y4" library="SparkFun" deviceset="CRYSTAL" device="5X3" value="6MHz"/>
 <part name="GND26" library="supply1" deviceset="GND" device=""/>
 <part name="GND27" library="supply1" deviceset="GND" device=""/>
-<part name="C13" library="rcl" deviceset="C-EU" device="C0603" value="18p"/>
-<part name="C14" library="rcl" deviceset="C-EU" device="C0603" value="18p"/>
+<part name="C13" library="rcl" deviceset="C-EU" device="C0603" value="33p"/>
+<part name="C14" library="rcl" deviceset="C-EU" device="C0603" value="33p"/>
 <part name="+3V17" library="supply1" deviceset="+3V3" device=""/>
 <part name="+3V18" library="supply1" deviceset="+3V3" device=""/>
 <part name="+3V19" library="supply1" deviceset="+3V3" device=""/>
@@ -14529,8 +14529,8 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </segment>
 <segment>
 <pinref part="JP5" gate="G$1" pin="1"/>
-<wire x1="241.3" y1="246.38" x2="228.6" y2="246.38" width="0.1524" layer="91"/>
-<label x="228.6" y="246.38" size="1.778" layer="95"/>
+<wire x1="241.3" y1="246.38" x2="223.52" y2="246.38" width="0.1524" layer="91"/>
+<label x="223.52" y="246.38" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="U7" gate="G$1" pin="OUT"/>

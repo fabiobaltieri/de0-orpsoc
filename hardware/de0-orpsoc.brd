@@ -1333,10 +1333,10 @@ OSH Park compatible</description>
 <element name="Y3" library="SparkFun" package="CRYSTAL-SMD-5X3" value="25M" x="47.3456" y="39.0144" rot="R180">
 <variant name="no-eth" populate="no"/>
 </element>
-<element name="C17" library="rcl" package="C0603" value="22p" x="51.0032" y="39.0144" rot="R270">
+<element name="C17" library="rcl" package="C0603" value="33p" x="51.0032" y="39.0144" rot="R270">
 <variant name="no-eth" populate="no"/>
 </element>
-<element name="C18" library="rcl" package="C0603" value="22p" x="43.4848" y="39.0144" rot="R90">
+<element name="C18" library="rcl" package="C0603" value="33p" x="43.4848" y="39.0144" rot="R90">
 <variant name="no-eth" populate="no"/>
 </element>
 <element name="R2" library="rcl" package="R0603" value="3.01k" x="52.4256" y="39.0144" rot="R90">
@@ -1418,15 +1418,15 @@ OSH Park compatible</description>
 <element name="Y2" library="SparkFun" package="CRYSTAL-SMD-5X3" value="25MHz" x="48.5648" y="20.7264" rot="R180"/>
 <element name="C11" library="rcl" package="C0603" value=".1u" x="51.6128" y="9.144" rot="R270"/>
 <element name="C12" library="rcl" package="C0603" value=".1u" x="43.2816" y="13.6144" rot="MR270"/>
-<element name="C16" library="rcl" package="C0603" value="18p" x="52.2224" y="20.7264" rot="R270"/>
-<element name="C31" library="rcl" package="C0603" value="18p" x="44.9072" y="20.7264" rot="R90"/>
+<element name="C16" library="rcl" package="C0603" value="33p" x="52.2224" y="20.7264" rot="R270"/>
+<element name="C31" library="rcl" package="C0603" value="33p" x="44.9072" y="20.7264" rot="R90"/>
 <element name="LED5" library="led" package="CHIPLED_0805" value="" x="67.2592" y="3.8608" rot="R180"/>
 <element name="R6" library="rcl" package="R0603" value="330" x="49.3776" y="10.3632" rot="MR180"/>
 <element name="C37" library="rcl" package="C0603" value=".1u" x="64.008" y="16.4592" rot="MR180"/>
 <element name="U$5" library="SparkFun-DigitalIC" package="LQFP-48" value="FT2232D" x="17.4752" y="34.1376" rot="R270"/>
 <element name="Y4" library="SparkFun" package="CRYSTAL-SMD-5X3" value="6MHz" x="16.8656" y="41.4528"/>
-<element name="C13" library="rcl" package="C0603" value="18p" x="13.208" y="41.4528" rot="R90"/>
-<element name="C14" library="rcl" package="C0603" value="18p" x="20.7264" y="41.4528" rot="R270"/>
+<element name="C13" library="rcl" package="C0603" value="33p" x="13.208" y="41.4528" rot="R90"/>
+<element name="C14" library="rcl" package="C0603" value="33p" x="20.7264" y="41.4528" rot="R270"/>
 <element name="C28" library="rcl" package="C0603" value="100n" x="18.0848" y="33.9344" rot="MR270">
 <variant name="no-eth" populate="no"/>
 </element>
