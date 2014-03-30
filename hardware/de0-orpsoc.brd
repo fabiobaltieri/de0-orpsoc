@@ -1330,7 +1330,7 @@ OSH Park compatible</description>
 <element name="J1" library="micrel" package="PJ-J0" value="J0026" x="67.4624" y="33.528" rot="R270">
 <variant name="no-eth" populate="no"/>
 </element>
-<element name="Y3" library="SparkFun" package="CRYSTAL-SMD-5X3" value="25M" x="47.3456" y="39.0144" rot="R180">
+<element name="Y3" library="SparkFun" package="CRYSTAL-SMD-5X3" value="25MHz" x="47.3456" y="39.0144" rot="R180">
 <variant name="no-eth" populate="no"/>
 </element>
 <element name="C17" library="rcl" package="C0603" value="33p" x="51.0032" y="39.0144" rot="R270">
@@ -1348,7 +1348,7 @@ OSH Park compatible</description>
 <element name="R17" library="rcl" package="R0603" value="330" x="54.864" y="26.8224" rot="R180">
 <variant name="no-eth" populate="no"/>
 </element>
-<element name="C19" library="rcl" package="C0603" value="10u" x="54.864" y="37.7952" rot="R180">
+<element name="C19" library="rcl" package="C0603" value="100n" x="54.864" y="37.7952" rot="R180">
 <variant name="no-eth" populate="no"/>
 </element>
 <element name="R18" library="rcl" package="R0603" value="50" x="54.864" y="33.528" rot="R180">

@@ -11921,7 +11921,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <part name="J1" library="micrel" deviceset="J0026" device="">
 <variant name="no-eth" populate="no"/>
 </part>
-<part name="Y3" library="SparkFun" deviceset="CRYSTAL" device="5X3" value="25M">
+<part name="Y3" library="SparkFun" deviceset="CRYSTAL" device="5X3" value="25MHz">
 <variant name="no-eth" populate="no"/>
 </part>
 <part name="C17" library="rcl" deviceset="C-EU" device="C0603" value="33p">
@@ -11943,7 +11943,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <part name="R17" library="rcl" deviceset="R-EU_" device="R0603" value="330">
 <variant name="no-eth" populate="no"/>
 </part>
-<part name="C19" library="rcl" deviceset="C-EU" device="C0603" value="10u">
+<part name="C19" library="rcl" deviceset="C-EU" device="C0603" value="100n">
 <variant name="no-eth" populate="no"/>
 </part>
 <part name="GND33" library="supply1" deviceset="GND" device=""/>
