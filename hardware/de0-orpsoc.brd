@@ -1398,7 +1398,7 @@ OSH Park compatible</description>
 <element name="R10" library="rcl" package="R0603" value="330" x="26.6192" y="33.7312" rot="R90"/>
 <element name="R11" library="rcl" package="R0603" value="330" x="8.3312" y="2.4384" rot="R180"/>
 <element name="R12" library="rcl" package="R0603" value="330" x="8.3312" y="3.8608" rot="R180"/>
-<element name="U10" library="SparkFun-FreqCtrl" package="SO08" value="DS1307SO8" x="25.6032" y="18.6944" rot="R90"/>
+<element name="U10" library="SparkFun-FreqCtrl" package="SO08" value="DS1339" x="25.6032" y="18.6944" rot="R90"/>
 <element name="C3" library="rcl" package="C0603" value=".1u" x="23.9776" y="15.4432"/>
 <element name="Y1" library="SparkFun-FreqCtrl" package="CRYSTAL-32KHZ-SMD" value="32.768k" x="31.0896" y="17.4752" rot="R270"/>
 <element name="C4" library="rcl" package="C0603" value="dnp" x="31.2928" y="15.0368"/>
@@ -1425,16 +1425,16 @@ OSH Park compatible</description>
 <element name="C37" library="rcl" package="C0603" value=".1u" x="64.008" y="16.4592" rot="MR180"/>
 <element name="U$5" library="SparkFun-DigitalIC" package="LQFP-48" value="FT2232D" x="17.4752" y="34.1376" rot="R270"/>
 <element name="Y4" library="SparkFun" package="CRYSTAL-SMD-5X3" value="6MHz" x="16.8656" y="41.4528"/>
-<element name="C13" library="rcl" package="C0603" value="33p" x="13.208" y="41.4528" rot="R90"/>
-<element name="C14" library="rcl" package="C0603" value="33p" x="20.7264" y="41.4528" rot="R270"/>
+<element name="C13" library="rcl" package="C0603" value="dnp" x="13.208" y="41.4528" rot="R90"/>
+<element name="C14" library="rcl" package="C0603" value="dnp" x="20.7264" y="41.4528" rot="R270"/>
 <element name="C28" library="rcl" package="C0603" value="100n" x="18.0848" y="33.9344" rot="MR270">
 <variant name="no-eth" populate="no"/>
 </element>
 <element name="C29" library="rcl" package="C0603" value="100n" x="15.6464" y="38.2016" rot="MR180">
 <variant name="no-eth" populate="no"/>
 </element>
-<element name="R7" library="rcl" package="R0603" value="27" x="10.16" y="34.3408"/>
-<element name="R8" library="rcl" package="R0603" value="27" x="10.16" y="32.9184"/>
+<element name="R7" library="rcl" package="R0603" value="22" x="10.16" y="34.3408"/>
+<element name="R8" library="rcl" package="R0603" value="22" x="10.16" y="32.9184"/>
 <element name="R13" library="rcl" package="R0603" value="1k5" x="10.5664" y="35.7632" rot="R180"/>
 <element name="R14" library="rcl" package="R0603" value="5k6" x="10.5664" y="37.1856"/>
 <element name="R15" library="rcl" package="R0603" value="4k7" x="10.3632" y="42.0624"/>
@@ -1479,9 +1479,9 @@ OSH Park compatible</description>
 <element name="JP5" library="SparkFun-Connectors" package="1X02" value="M02PTH" x="9.3472" y="23.1648"/>
 <element name="JP6" library="SparkFun-Connectors" package="USB-MICROB" value="USB_MICROB_PLUG" x="1.3716" y="26.8224" rot="R270"/>
 <element name="U7" library="balto" package="SOT23-6L" value="TPS2552" x="17.8816" y="24.384" rot="R90"/>
-<element name="R30" library="rcl" package="R0603" value="22k" x="14.224" y="24.1808" rot="R90"/>
-<element name="R31" library="rcl" package="R0603" value="15k" x="6.096" y="24.384" rot="R180"/>
-<element name="R32" library="rcl" package="R0603" value="15k" x="6.096" y="22.9616"/>
+<element name="R30" library="rcl" package="R0603" value="56k" x="14.224" y="24.1808" rot="R90"/>
+<element name="R31" library="rcl" package="R0603" value="4k7" x="6.096" y="24.384" rot="R180"/>
+<element name="R32" library="rcl" package="R0603" value="10k" x="6.096" y="22.9616"/>
 <element name="U$1" library="cat" package="CAT-L" value="" x="40.64" y="8.9408"/>
 <element name="U$4" library="cat" package="CS" value="" x="22.1488" y="24.384"/>
 </elements>

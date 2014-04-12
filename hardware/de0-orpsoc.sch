@@ -12010,7 +12010,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <part name="R10" library="rcl" deviceset="R-EU_" device="R0603" value="330"/>
 <part name="R11" library="rcl" deviceset="R-EU_" device="R0603" value="330"/>
 <part name="R12" library="rcl" deviceset="R-EU_" device="R0603" value="330"/>
-<part name="U10" library="SparkFun-FreqCtrl" deviceset="DS1307" device="SO8"/>
+<part name="U10" library="SparkFun-FreqCtrl" deviceset="DS1307" device="SO8" value="DS1339"/>
 <part name="C3" library="rcl" deviceset="C-EU" device="C0603" value=".1u"/>
 <part name="GND6" library="supply1" deviceset="GND" device=""/>
 <part name="+3V7" library="supply1" deviceset="+3V3" device=""/>
@@ -12061,8 +12061,8 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <part name="Y4" library="SparkFun" deviceset="CRYSTAL" device="5X3" value="6MHz"/>
 <part name="GND26" library="supply1" deviceset="GND" device=""/>
 <part name="GND27" library="supply1" deviceset="GND" device=""/>
-<part name="C13" library="rcl" deviceset="C-EU" device="C0603" value="33p"/>
-<part name="C14" library="rcl" deviceset="C-EU" device="C0603" value="33p"/>
+<part name="C13" library="rcl" deviceset="C-EU" device="C0603" value="dnp"/>
+<part name="C14" library="rcl" deviceset="C-EU" device="C0603" value="dnp"/>
 <part name="+3V17" library="supply1" deviceset="+3V3" device=""/>
 <part name="+3V18" library="supply1" deviceset="+3V3" device=""/>
 <part name="+3V19" library="supply1" deviceset="+3V3" device=""/>
@@ -12073,8 +12073,8 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <variant name="no-eth" populate="no"/>
 </part>
 <part name="GND28" library="supply1" deviceset="GND" device=""/>
-<part name="R7" library="rcl" deviceset="R-EU_" device="R0603" value="27"/>
-<part name="R8" library="rcl" deviceset="R-EU_" device="R0603" value="27"/>
+<part name="R7" library="rcl" deviceset="R-EU_" device="R0603" value="22"/>
+<part name="R8" library="rcl" deviceset="R-EU_" device="R0603" value="22"/>
 <part name="R13" library="rcl" deviceset="R-EU_" device="R0603" value="1k5"/>
 <part name="R14" library="rcl" deviceset="R-EU_" device="R0603" value="5k6"/>
 <part name="+3V21" library="supply1" deviceset="+3V3" device=""/>
@@ -12154,12 +12154,12 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <part name="JP6" library="SparkFun-Connectors" deviceset="USB_MICROB_PLUG" device=""/>
 <part name="GND50" library="supply1" deviceset="GND" device=""/>
 <part name="U7" library="balto" deviceset="TPS2552" device=""/>
-<part name="R30" library="rcl" deviceset="R-EU_" device="R0603" value="22k"/>
+<part name="R30" library="rcl" deviceset="R-EU_" device="R0603" value="56k"/>
 <part name="GND51" library="supply1" deviceset="GND" device=""/>
 <part name="GND52" library="supply1" deviceset="GND" device=""/>
 <part name="P+9" library="supply1" deviceset="+5V" device=""/>
-<part name="R31" library="rcl" deviceset="R-EU_" device="R0603" value="15k"/>
-<part name="R32" library="rcl" deviceset="R-EU_" device="R0603" value="15k"/>
+<part name="R31" library="rcl" deviceset="R-EU_" device="R0603" value="4k7"/>
+<part name="R32" library="rcl" deviceset="R-EU_" device="R0603" value="10k"/>
 <part name="GND53" library="supply1" deviceset="GND" device=""/>
 <part name="GND54" library="supply1" deviceset="GND" device=""/>
 <part name="+3V29" library="supply1" deviceset="+3V3" device=""/>
@@ -12216,8 +12216,6 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <wire x1="342.9" y1="139.7" x2="284.48" y2="139.7" width="0.1524" layer="97"/>
 <wire x1="284.48" y1="139.7" x2="284.48" y2="88.9" width="0.1524" layer="97"/>
 <text x="287.02" y="132.08" size="5.08" layer="97">uSD</text>
-<text x="340.36" y="106.68" size="1.778" layer="97" rot="R90">732-3819-1-ND</text>
-<text x="170.18" y="195.58" size="1.778" layer="97">USB1T11AM‑ND</text>
 <text x="149.86" y="254" size="5.08" layer="97">USB</text>
 <wire x1="320.04" y1="261.62" x2="386.08" y2="261.62" width="0.1524" layer="97"/>
 <wire x1="386.08" y1="261.62" x2="386.08" y2="88.9" width="0.1524" layer="97"/>
@@ -12225,18 +12223,10 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <wire x1="320.04" y1="142.24" x2="345.44" y2="142.24" width="0.1524" layer="97"/>
 <wire x1="345.44" y1="142.24" x2="345.44" y2="88.9" width="0.1524" layer="97"/>
 <wire x1="345.44" y1="88.9" x2="386.08" y2="88.9" width="0.1524" layer="97"/>
-<text x="45.72" y="96.52" size="1.778" layer="97">BK-890-ND 3mm
-300-8340-1-ND</text>
-<text x="287.02" y="175.26" size="1.778" layer="97">EVQ-PLHA15</text>
-<text x="325.12" y="193.04" size="1.778" layer="97">A106671-ND</text>
-<text x="294.64" y="68.58" size="1.778" layer="97">Yellow</text>
+<text x="294.64" y="60.96" size="1.778" layer="97">Red</text>
 <text x="294.64" y="45.72" size="1.778" layer="97">Green
-.
-.
-.
-.
-.
-.</text>
+</text>
+<text x="294.64" y="68.58" size="1.778" layer="97">Green</text>
 </plain>
 <instances>
 <instance part="LICENSE1" gate="G$1" x="289.56" y="25.4"/>
