@@ -12010,7 +12010,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <part name="R10" library="rcl" deviceset="R-EU_" device="R0603" value="330"/>
 <part name="R11" library="rcl" deviceset="R-EU_" device="R0603" value="330"/>
 <part name="R12" library="rcl" deviceset="R-EU_" device="R0603" value="330"/>
-<part name="U10" library="SparkFun-FreqCtrl" deviceset="DS1307" device="SO8" value="DS1339"/>
+<part name="U10" library="SparkFun-FreqCtrl" deviceset="DS1307" device="SO8" value="M41T82"/>
 <part name="C3" library="rcl" deviceset="C-EU" device="C0603" value=".1u"/>
 <part name="GND6" library="supply1" deviceset="GND" device=""/>
 <part name="+3V7" library="supply1" deviceset="+3V3" device=""/>

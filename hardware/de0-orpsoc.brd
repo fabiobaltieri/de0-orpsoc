@@ -1398,7 +1398,7 @@ OSH Park compatible</description>
 <element name="R10" library="rcl" package="R0603" value="330" x="26.6192" y="33.7312" rot="R90"/>
 <element name="R11" library="rcl" package="R0603" value="330" x="8.3312" y="2.4384" rot="R180"/>
 <element name="R12" library="rcl" package="R0603" value="330" x="8.3312" y="3.8608" rot="R180"/>
-<element name="U10" library="SparkFun-FreqCtrl" package="SO08" value="DS1339" x="25.6032" y="18.6944" rot="R90"/>
+<element name="U10" library="SparkFun-FreqCtrl" package="SO08" value="M41T82" x="25.6032" y="18.6944" rot="R90"/>
 <element name="C3" library="rcl" package="C0603" value=".1u" x="23.9776" y="15.4432"/>
 <element name="Y1" library="SparkFun-FreqCtrl" package="CRYSTAL-32KHZ-SMD" value="32.768k" x="31.0896" y="17.4752" rot="R270"/>
 <element name="C4" library="rcl" package="C0603" value="dnp" x="31.2928" y="15.0368"/>
